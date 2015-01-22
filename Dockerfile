@@ -4,5 +4,6 @@ MAINTAINER Sam Liu <ontouchstart@gmail.com>
 ADD . /jekyll
 RUN gem install therubyracer --no-ri --no-rdoc
 RUN cd /jekyll && rake build && gem install pkg/jekyll-2.4.0.gem --no-ri --no-rdoc
+RUN jekyll -v
 ENV HOME /home
 WORKDIR /home
