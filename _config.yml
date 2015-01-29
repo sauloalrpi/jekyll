@@ -4,11 +4,11 @@ highlighter: pygments
 relative_permalinks: false
 permalink: "/news/:year/:month/:day/:title/"
 excerpt_separator: ''
-repository: https://github.com/ontouchstart/jekyll
+repository: https://github.com/ontouchstart/jekyll/tree/gh-pages
 help_url: https://github.com/jekyll/jekyll-help
 collections:
   docs:
     output: true
 sass:
   style: compressed
-baseurl: "http://ontouchstart.github.io/jekyll"
+baseurl: http://ontouchstart.github.io/jekyll
