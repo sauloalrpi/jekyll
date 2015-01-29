@@ -1,6 +1,6 @@
 # Jekyll docs site
 
-This directory contains the code for the Jekyll docs site, [jekyllrb.com](http://jekyllrb.com/).
+This directory contains the code for a fork of the [Jekyll docs site](http://jekyllrb.com), [http://ontouchstart.github.io/jekyll](http://ontouchstart.github.io/jekyll).
 
 ## Contributing
 
