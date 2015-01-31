@@ -11,4 +11,4 @@ collections:
     output: true
 sass:
   style: compressed
-baseurl: http://ontouchstart.github.io/jekyll
+baseurl: /jekyll
